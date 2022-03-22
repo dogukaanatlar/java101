@@ -21,7 +21,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     1. [Pratik - Hesap Makinesi](https://github.com/dogukaanatlar/java101/tree/main/hesapMakinesi/src)
     2. [Pratik - Kullanıcı Girişi](https://github.com/dogukaanatlar/java101/tree/main/kullaniciGirisi/src)
     3. [Pratik - Sınıfı Geçme Durumu](https://github.com/dogukaanatlar/java101/tree/main/sinifGecme/src)
-    4. [*Pratik - Hava Sıcaklığına Göre Etkinlik Önerme*]()
+    4. [Pratik - Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/dogukaanatlar/java101/tree/main/havaSicakEtkinlik/src)
     5. [*Pratik - Sayıları Büyükten Küçüğe Sıralama*]()
     6. [*Pratik - Burç Bulan Program*]()
     7. [*Ödev - Uçak Bileti Fiyatı Hesaplama*]()
