@@ -29,6 +29,22 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     9. [*Ödev - Artık YIl Hesaplama*]()
 
 * Döngüler
+    1. [*Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program*]()
+    2. [*Pratik - Tek Sayıların Toplamını Bulan Program*]()
+    3. [*Pratik - Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program*]()
+    4. [*Pratik - Faktöriyel Hesaplayan Program*]()
+    5. [*Pratik - Üslü Sayı Hesaplayan Program*]()
+    6. [*Pratik - Armstrong Sayıları Bulan Program*]()
+    7. [*Pratik - Harmonik Sayıları Bulan Program*]()
+    8. [*Pratik - Yıldızlar ile Üçgen Yapımı*]()
+    9. [*Pratik - ATM Projesi*]()
+    10. [*Pratik - EBOB-EKOK Bulan Program*]()
+    11. [*Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma*]()
+    12. [*Ödev - Mükemmel Sayı Bulan Program*]()
+    13. [*Ödev - Ters Üçgen Yapımı*]()
+    14. [*Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program*]()
+    15. [*Ödev - Fibonacci Serisi*]()
+
 * Metotlar
 * Sınıflar
 * Diziler
