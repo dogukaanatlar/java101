@@ -43,7 +43,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     12. [*Ödev - Mükemmel Sayı Bulan Program*]()
     13. [*Ödev - Ters Üçgen Yapımı*]()
     14. [*Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program*]()
-    15. [*Ödev - Fibonacci Serisi*]()
+    15. [Ödev - Fibonacci Serisi](https://github.com/dogukaanatlar/java101/tree/main/fibonacciSerisi/src)
 
 * Metotlar
 * Sınıflar
