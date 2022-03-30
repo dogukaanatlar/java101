@@ -26,7 +26,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     6. [Pratik - Burç Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/burcProg/src)
     7. [Ödev - Uçak Bileti Fiyatı Hesaplama](https://github.com/dogukaanatlar/java101/tree/main/ucakBileti/src)
     8. [Ödev - Çin Zodyağı Hesaplama](https://github.com/dogukaanatlar/java101/tree/main/cinZodyagi/src)
-    9. [*Ödev - Artık YIl Hesaplama*]()
+    9. [Ödev - Artık YIl Hesaplama](https://github.com/dogukaanatlar/java101/tree/main/artikYilHesaplama/src)
 
 * Döngüler
     1. [*Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program*]()
