@@ -29,8 +29,8 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     9. [Ödev - Artık YIl Hesaplama](https://github.com/dogukaanatlar/java101/tree/main/artikYilHesaplama/src)
 
 * Döngüler
-    1. [*Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program*]()
-    2. [*Pratik - Tek Sayıların Toplamını Bulan Program*]()
+    1. [Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/ciftSayilariBulma/src)
+    2. [Pratik - Tek Sayıların Toplamını Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/tekSayilarinToplami/src)
     3. [*Pratik - Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program*]()
     4. [*Pratik - Faktöriyel Hesaplayan Program*]()
     5. [*Pratik - Üslü Sayı Hesaplayan Program*]()
