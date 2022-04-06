@@ -32,7 +32,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     1. [Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/ciftSayilariBulma/src)
     2. [Pratik - Tek Sayıların Toplamını Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/tekSayilarinToplami/src)
     3. [Pratik - Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/dortVeBesKuvvetleri/src)
-    4. [*Pratik - Faktöriyel Hesaplayan Program*]()
+    4. [Pratik - Faktöriyel Hesaplayan Program](https://github.com/dogukaanatlar/java101/tree/main/faktoriyelHesabi/src)
     5. [*Pratik - Üslü Sayı Hesaplayan Program*]()
     6. [*Pratik - Armstrong Sayıları Bulan Program*]()
     7. [*Pratik - Harmonik Sayıları Bulan Program*]()
