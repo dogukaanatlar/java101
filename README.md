@@ -38,7 +38,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     7. [Pratik - Harmonik Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/harmonikSayi/src)
     8. [Pratik - Yıldızlar ile Üçgen Yapımı](https://github.com/dogukaanatlar/java101/tree/main/yildizlar/src)
     9. [Pratik - ATM Projesi](https://github.com/dogukaanatlar/java101/tree/main/atmProjesi/src)
-    10. [*Pratik - EBOB-EKOK Bulan Program*]()
+    10. [Pratik - EBOB-EKOK Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/ebobEkok)
     11. [*Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma*]()
     12. [*Ödev - Mükemmel Sayı Bulan Program*]()
     13. [*Ödev - Ters Üçgen Yapımı*]()
