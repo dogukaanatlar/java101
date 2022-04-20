@@ -42,7 +42,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     11. [Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/dogukaanatlar/java101/tree/main/findMinMax)
     12. [Ödev - Mükemmel Sayı Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/mukemmelSayi)
     13. [Ödev - Ters Üçgen Yapımı](https://github.com/dogukaanatlar/java101/tree/main/tersUcgen)
-    14. [*Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program*]()
+    14. [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/asalSayi)
     15. [Ödev - Fibonacci Serisi](https://github.com/dogukaanatlar/java101/tree/main/fibonacciSerisi/src)
 
 * Metotlar
