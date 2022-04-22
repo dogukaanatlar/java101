@@ -46,8 +46,8 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     15. [Ödev - Fibonacci Serisi](https://github.com/dogukaanatlar/java101/tree/main/fibonacciSerisi/src)
 
 * Metotlar
-    1. [*Pratik - Palindrom Sayılar*]()
-    2. [*Pratik - Recursive ile Fibonacci Serisi Bulan Program*]()
+    1. [Pratik - Palindrom Sayılar](https://github.com/dogukaanatlar/java101/tree/main/palindromSayi)
+    2. [Pratik - Recursive ile Fibonacci Serisi Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/recursiveFibonacci)
     3. [*Pratik - Gelişmiş Hesap Makinesi*]()
     4. [*Ödev - Üs Hesabı Yapan Program*]()
     5. [*Ödev - Asal Sayı Bulan Program*]()
