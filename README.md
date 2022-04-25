@@ -48,8 +48,8 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
 * Metotlar
     1. [Pratik - Palindrom Sayılar](https://github.com/dogukaanatlar/java101/tree/main/palindromSayi)
     2. [Pratik - Recursive ile Fibonacci Serisi Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/recursiveFibonacci)
-    3. [*Pratik - Gelişmiş Hesap Makinesi*]()
-    4. [*Ödev - Üs Hesabı Yapan Program*]()
+    3. [Pratik - Gelişmiş Hesap Makinesi](https://github.com/dogukaanatlar/java101/tree/main/gelismisHesapMakinesi)
+    4. [Ödev - Üs Hesabı Yapan Program](https://github.com/dogukaanatlar/java101/tree/main/recursiveUsluSayi)
     5. [*Ödev - Asal Sayı Bulan Program*]()
     6. [*Ödev - Desene Göre Metot Oluşturma*]()
 
