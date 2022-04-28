@@ -51,7 +51,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     3. [Pratik - Gelişmiş Hesap Makinesi](https://github.com/dogukaanatlar/java101/tree/main/gelismisHesapMakinesi)
     4. [Ödev - Üs Hesabı Yapan Program](https://github.com/dogukaanatlar/java101/tree/main/recursiveUsluSayi)
     5. [Ödev - Asal Sayı Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/rescursiveAsalSayi)
-    6. [*Ödev - Desene Göre Metot Oluşturma*]()
+    6. [Ödev - Desene Göre Metot Oluşturma](https://github.com/dogukaanatlar/java101/tree/main/recursiveDesen)
 
 * Sınıflar
     1. [*Pratik - Öğrenci Bilgi Sistemi*]()
