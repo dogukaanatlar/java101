@@ -54,7 +54,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     6. [Ödev - Desene Göre Metot Oluşturma](https://github.com/dogukaanatlar/java101/tree/main/recursiveDesen)
 
 * Sınıflar
-    1. [*Pratik - Öğrenci Bilgi Sistemi*]()
+    1. [Pratik - Öğrenci Bilgi Sistemi](https://github.com/dogukaanatlar/java101/tree/main/ogrenciBilgiSis)
     2. [*Pratik - Boks Oyunu*]()
     3. [*Ödev - Maaş Hesaplayıcı*]()
 
