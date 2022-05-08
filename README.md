@@ -59,4 +59,12 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     3. [*Ödev - Maaş Hesaplayıcı*]()
 
 * Diziler
+    1. [*Pratik - Dizideki Elemanların Ortalamasını Bulan Program*]()
+    2. [*Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program*]()
+    3. [*Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program*]()
+    4. [*Pratik - Dizideki Tekrar Eden Sayıları Bulan Program*]()
+    5. [*Ödev - Dizideki Elemanları Sıralama*]()
+    6. [*Ödev - Dizideki Elemanların Frekansı*]()
+    7. [*Ödev - Matris Transpozunu Bulma*]()
+
 * Diğer Konular
