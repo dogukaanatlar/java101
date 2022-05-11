@@ -55,7 +55,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
 
 * Sınıflar
     1. [Pratik - Öğrenci Bilgi Sistemi](https://github.com/dogukaanatlar/java101/tree/main/ogrenciBilgiSis)
-    2. [*Pratik - Boks Oyunu*]()
+    2. [Pratik - Boks Oyunu](https://github.com/dogukaanatlar/java101/tree/main/boksOyunu)
     3. [*Ödev - Maaş Hesaplayıcı*]()
 
 * Diziler
