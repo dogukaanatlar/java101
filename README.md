@@ -59,7 +59,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     3. [Ödev - Maaş Hesaplayıcı](https://github.com/dogukaanatlar/java101/tree/main/maasHesap)
 
 * Diziler
-    1. [*Pratik - Dizideki Elemanların Ortalamasını Bulan Program*]()
+    1. [Pratik - Dizideki Elemanların Ortalamasını Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/diziOrtalama)
     2. [*Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program*]()
     3. [*Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program*]()
     4. [*Pratik - Dizideki Tekrar Eden Sayıları Bulan Program*]()
