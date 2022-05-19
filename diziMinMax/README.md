@@ -8,6 +8,7 @@ Girilen Sayı : 5
 Girilen sayıdan küçük en yakın sayı : 2
 Girilen sayıdan büyük en yakın sayı : 12
 ```
+[Cevabım](https://github.com/dogukaanatlar/java101/blob/main/diziMinMax/src/Main.java)
 
 ### Dizideki Elemanların Max ve Min Değerlerini Bulan Program
 ```java
