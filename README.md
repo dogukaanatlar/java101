@@ -63,7 +63,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     2. [Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/diziMinMax)
     3. [Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program](https://github.com/dogukaanatlar/java101/tree/main/diziHarfYaz)
     4. [Pratik - Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/diziTekrarBulma)
-    5. [*Ödev - Dizideki Elemanları Sıralama*]()
+    5. [Ödev - Dizideki Elemanları Sıralama](https://github.com/dogukaanatlar/java101/tree/main/diziElemanSiralama)
     6. [*Ödev - Dizideki Elemanların Frekansı*]()
     7. [*Ödev - Matris Transpozunu Bulma*]()
 
