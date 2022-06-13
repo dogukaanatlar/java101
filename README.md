@@ -64,7 +64,7 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     3. [Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program](https://github.com/dogukaanatlar/java101/tree/main/diziHarfYaz)
     4. [Pratik - Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/diziTekrarBulma)
     5. [Ödev - Dizideki Elemanları Sıralama](https://github.com/dogukaanatlar/java101/tree/main/diziElemanSiralama)
-    6. [*Ödev - Dizideki Elemanların Frekansı*]()
+    6. [Ödev - Dizideki Elemanların Frekansı](https://github.com/dogukaanatlar/java101/tree/main/diziElemanFrekans)
     7. [*Ödev - Matris Transpozunu Bulma*]()
 
 * Diğer Konular
