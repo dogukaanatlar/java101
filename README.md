@@ -68,3 +68,9 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     7. [Ödev - Matris Transpozunu Bulma](https://github.com/dogukaanatlar/java101/tree/main/matrisTranspozu)
 
 * Diğer Konular
+    1. [*Pratik - Sayı Tahmin Oyunu*]()
+    2. [*Pratik - Palindromik Kelimleri Bulan Program*]()
+
+* Bitirme Projesi
+    [*Mayın Tarlası Oyunu*]()
+
