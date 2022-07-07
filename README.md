@@ -72,5 +72,5 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     2. [Pratik - Palindromik Kelimleri Bulan Program](https://github.com/dogukaanatlar/java101/tree/main/palindromikKelimler)
 
 * Bitirme Projesi
-    [*Mayın Tarlası Oyunu*]()
+    * [Mayın Tarlası Oyunu](https://github.com/dogukaanatlar/java101/tree/main/mayinTarlasiOyunu)
 
