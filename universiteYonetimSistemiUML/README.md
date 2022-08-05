@@ -1,3 +1,5 @@
+# Ödev
+
 1. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
 2. Departmanlara ait ofisler vardır.
@@ -9,3 +11,7 @@
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 **Not :** Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+## Cevap :
+
+![UML](https://github.com/dogukaanatlar/java101/blob/main/universiteYonetimSistemiUML/UniversiteYonetimSistemi.png)
