@@ -75,8 +75,8 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
     * [Mayın Tarlası Oyunu](https://github.com/dogukaanatlar/java101/tree/main/mayinTarlasiOyunu)
 
 * Object Oriented Programming
-    * [Ödev - Üniversite Yönetim Sistemi](https://github.com/dogukaanatlar/java101/tree/main/universiteYonetimSistemiUML)
-    * [*Ödev - Hayvanat Bahçesi Yönetimi*]()
-    * [*Ödev - Uçuş Yönetim Sistemi*]()
-    * [*Ödev - Online Film Sistemi*]()
-    * [*Ödev - Asansör Simülasyonu*]()
+    1. [Ödev - Üniversite Yönetim Sistemi](https://github.com/dogukaanatlar/java101/tree/main/universiteYonetimSistemiUML)
+    2. [Ödev - Hayvanat Bahçesi Yönetimi](https://github.com/dogukaanatlar/java101/tree/main/hayvanatBahcesiYonetimiUML)
+    3. [*Ödev - Uçuş Yönetim Sistemi*]()
+    4. [*Ödev - Online Film Sistemi*]()
+    5. [*Ödev - Asansör Simülasyonu*]()
