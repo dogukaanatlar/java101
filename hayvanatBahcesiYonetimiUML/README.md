@@ -16,4 +16,4 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 
 ## Cevap : 
 
-![UML]()
+![UML](https://github.com/dogukaanatlar/java101/blob/main/hayvanatBahcesiYonetimiUML/HayvanatBahcesiYonetimi.png)
