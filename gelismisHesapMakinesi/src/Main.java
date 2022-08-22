@@ -71,6 +71,9 @@ public class Main {
             System.out.println(menu);
             System.out.print("Lütfen bir işlem seçiniz :");
             select = scan.nextInt();
+            if(select==0){
+                break;
+            }
             System.out.print("1. sayı : ");
             n1 = scan.nextInt();
             System.out.print("2. sayı : ");
