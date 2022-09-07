@@ -14,4 +14,4 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ## Cevap: 
 
-![UcusYonetimSistemi]()
+![UcusYonetimSistemi](https://github.com/dogukaanatlar/java101/blob/main/ucusYonetimSistemiUML/UcusYonetimSistemi.png)
