@@ -77,6 +77,6 @@ Kodluyoruz eğitimi kapsamında "Java101" patikası projeleri ve ödevleri içer
 * Object Oriented Programming
     1. [Ödev - Üniversite Yönetim Sistemi](https://github.com/dogukaanatlar/java101/tree/main/universiteYonetimSistemiUML)
     2. [Ödev - Hayvanat Bahçesi Yönetimi](https://github.com/dogukaanatlar/java101/tree/main/hayvanatBahcesiYonetimiUML)
-    3. [*Ödev - Uçuş Yönetim Sistemi*]()
+    3. [Ödev - Uçuş Yönetim Sistemi](https://github.com/dogukaanatlar/java101/tree/main/ucusYonetimSistemiUML)
     4. [*Ödev - Online Film Sistemi*]()
     5. [*Ödev - Asansör Simülasyonu*]()
