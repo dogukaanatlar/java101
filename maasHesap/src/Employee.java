@@ -10,7 +10,8 @@ public class Employee {
         this.hireYear = hireYear;
     }
 
-    void run() {
+    @Override
+    public String toString() {
         System.out.println("Adı : " + this.name);
         System.out.println("Maaşı : " + this.salary);
         System.out.println("Çalışma Saati : " + this.workHours);
@@ -19,29 +20,30 @@ public class Employee {
         System.out.println("Bonus : " + bonus());
         System.out.println("Maaş Artışı : " + raiseSalary());
         System.out.println("Vergi ve Bonuslar ile birlikte maaş : " + (this.salary - tax() + bonus()));
-        System.out.println("Toplam Maaş : " + (this.salary + raiseSalary()));
+        System.out.println("Toplam Maaş : " + (( this.salary + raiseSalary() + bonus() ) - tax() ));
+        return null;
     }
 
-    double tax() {
+    double tax() { //vergi method
         if (this.salary > 1000) {
             return this.salary * 0.03;
-        } else {
-            return  0;
-        }
-    }
-
-    double bonus() {
-        if (this.workHours > 40) {
-            return  (this.workHours - 40) * 30;
         } else {
             return 0;
         }
     }
 
-    double raiseSalary() {
-        if (this.hireYear <= 9) {
+    double bonus() { //bonus method
+        if (this.workHours > 40) {
+            return (this.workHours - 40) * 30;
+        } else {
+            return 0;
+        }
+    }
+
+    double raiseSalary() { //Maaş zam methodu
+        if ((2021 - this.hireYear) <= 9) {
             return this.salary * 0.05;
-        } else if (this.hireYear <= 19) {
+        } else if ((2021 - this.hireYear) <= 19) {
             return this.salary * 0.1;
         } else {
             return this.salary * 0.15;
